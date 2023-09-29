@@ -5,16 +5,23 @@ Install three.js and a build tool, Vite, using a terminal in your project folder
 
 # three.js
 
-`npm install --save three`
+```
+npm install --save three
+```
 
 # vite
 
-`npm install --save-dev vite`
+```
+npm install --save-dev vite
+```
 
 Installation added node_modules/ and package.json to my project. What are they?
 From your terminal, run:
 
-`npx vite`
+```
+npx vite
+```
+
 If everything went well, you'll see a URL like http://localhost:5173 appear in your terminal, and can open that URL to see your web application.
 
 ![demo](demo.gif)
