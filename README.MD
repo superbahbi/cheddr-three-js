@@ -1,4 +1,4 @@
-#cheddr ascii logo
+# cheddr ascii logo
 
 Install Node.js. We'll need it to load manage dependencies and to run our build tool.
 Install three.js and a build tool, Vite, using a terminal in your project folder. Vite will be used during development, but it isn't part of the final webpage. If you prefer to use another build tool, that's fine — we support modern build tools that can import ES Modules.
